@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...# 👋 Hi, I'm Hariharan K
 
 💻 B.TECH INFORMATIONTECHNOLOGY Engineering Student |CHENNAI INSTITUTE OF TECHNOLOGY | Aspiring Full-Stack Developer | AWS & DSA Enthusiast**  
+🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
 
 ---
 
