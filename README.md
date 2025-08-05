@@ -2,11 +2,10 @@
 **HARIHARANk2007/HARIHARANk2007** is a ✨ _special_ ✨ repository because its `README.md` (https://github.com/HARIHARANk2007/HARIHARANk2007/edit/main/README.md) appears on your GitHub profile.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...# 👋 Hi, I'm Hariharan K
+# 👋 Hi, I'm Hariharan K
 
 💻 B.TECH INFORMATIONTECHNOLOGY Engineering Student |CHENNAI INSTITUTE OF TECHNOLOGY | Aspiring Full-Stack Developer | AWS & DSA Enthusiast**  
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 ---
 
 ### 🚀 About Me
