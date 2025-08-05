@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 Learning: **Data Structures & Algorithms (DSA)**, **AWS Cloud**, and **Java Backend Development**
 - 👯 Looking to collaborate on: Open-source and web development projects
 - 💬 Ask me about: HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Java
-- 📫 Reach me: **hariharank@example.com**
+- 📫 Reach me: **hariharankarunamoorthy20@gmail.com**
 - ⚡ Fun fact: I enjoy solving problems and turning ideas into working projects
 
 ---
