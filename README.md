@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--
-**HARIHARANk2007/HARIHARANk2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HARIHARANk2007/HARIHARANk2007** is a ✨ _special_ ✨ repository because its `README.md` (https://github.com/HARIHARANk2007/HARIHARANk2007/edit/main/README.md) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
