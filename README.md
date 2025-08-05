@@ -1,0 +1,44 @@
+## Hi there 👋
+
+<!--
+**HARIHARANk2007/HARIHARANk2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...# 👋 Hi, I'm Hariharan K
+
+💻 B.TECH INFORMATIONTECHNOLOGY Engineering Student |CHENNAI INSTITUTE OF TECHNOLOGY | Aspiring Full-Stack Developer | AWS & DSA Enthusiast**  
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on: **Full-stack projects** & **Hackathon apps**
+- 🌱 Learning: **Data Structures & Algorithms (DSA)**, **AWS Cloud**, and **Java Backend Development**
+- 👯 Looking to collaborate on: Open-source and web development projects
+- 💬 Ask me about: HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Java
+- 📫 Reach me: **hariharank@example.com**
+- ⚡ Fun fact: I enjoy solving problems and turning ideas into working projects
+
+---
+Social Presence
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/hariharan2007) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+### 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React (beginner)
+- **Backend:** Node.js, Express.js, Java, JDBC
+- **Database:** MySQL, MongoDB (learning)
+- **Other Tools:** Git, GitHub, AWS (beginner), Figma
+
+---
+
+### 📈 GitHub Stats
+![Hariharan's GitHub Stats](https://github.com/HARIHARANk2007/HARIHARANk2007/new/main?readme=1)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Hariharan_20_04_2007?theme=light&font=Noto%20Sans%20Medefaidrin&ext=contest)](https://leetcode.com/u/Hariharan_20_04_2007)
+
+
+---
+
+---
+
