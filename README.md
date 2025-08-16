@@ -30,11 +30,11 @@ Social Presence
 
 ---
 
-### 📈 GitHub Stats
-![Hariharan's GitHub Stats](https://github.com/HARIHARANk2007/HARIHARANk2007/new/main?readme=1)
+
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hariharan_20_04_2007?theme=light&font=Noto%20Sans%20Medefaidrin&ext=contest)](https://leetcode.com/u/Hariharan_20_04_2007)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HARIHARANk2007&bg_color=979fd8&color=564c9e&line=4c9e5d&point=1a1919&area=true&hide_border=true)](https://github.com/HARIHARANk2007/github-readme-activity-graph)
 ---
 
 ---
