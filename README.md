@@ -30,7 +30,6 @@ Social Presence
 
 ---
 
-##Leetcode profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hariharan_20_04_2007?theme=light&font=Noto%20Sans%20Medefaidrin&ext=contest)](https://leetcode.com/u/Hariharan_20_04_2007)
 
