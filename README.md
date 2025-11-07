@@ -1,20 +1,32 @@
-## Hi there 👋
-**HARIHARANk2007/HARIHARANk2007** is a ✨ _special_ ✨ repository because its `README.md` (https://github.com/HARIHARANk2007/HARIHARANk2007/edit/main/README.md) appears on your GitHub profile.
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+###🚀 **About Me**
+I am a passionate Information Technology engineering student with a strong interest in full-stack web development and competitive programming. I enjoy solving complex problems, learning new technologies, and building innovative projects that add value. Currently, I am honing my skills in Data Structures & Algorithms, AWS Cloud, and Java backend development to build scalable and efficient applications.
 
-# 👋 Hi, I'm Hariharan K
+💡 What I'm Working On
+Developing full-stack web applications using modern technologies.
 
-💻 B.TECH INFORMATIONTECHNOLOGY Engineering Student |CHENNAI INSTITUTE OF TECHNOLOGY | Aspiring Full-Stack Developer | AWS & DSA Enthusiast**  
+Participating in hackathons to solve real-world challenges with innovative app solutions.
 
----
+Expanding my knowledge in backend development with Java and AWS cloud services.
 
-### 🚀 About Me
-- 🔭 Currently working on: **Full-stack projects** & **Hackathon apps**
-- 🌱 Learning: **Data Structures & Algorithms (DSA)**, **AWS Cloud**, and **Java Backend Development**
-- 👯 Looking to collaborate on: Open-source and web development projects
-- 💬 Ask me about: HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Java
-- 📫 Reach me: **hariharankarunamoorthy20@gmail.com**
-- ⚡ Fun fact: I enjoy solving problems and turning ideas into working projects
+Enhancing my algorithms and data structures skills through daily practice and projects.
+
+🛠️ Skills & Technologies
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js, Express.js, Java
+
+Databases: MySQL
+
+Cloud & Tools: AWS Cloud, Git, GitHub
+
+Programming: Proficient in Python and C++ for competitive programming and algorithm solving
+
+Others: Strong foundation in Data Structures & Algorithms (DSA)
+
+🤝 Let's Connect
+I’m always open to collaborating on open-source projects, hackathons, or innovative software development ideas. Feel free to reach out to me at:
+
+📧 hariharankarunamoorthy20@gmail.com
 
 ---
 Social Presence
