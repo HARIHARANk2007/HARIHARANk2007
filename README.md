@@ -1,4 +1,5 @@
-###🚀 **About Me**
+🚀 **About Me**
+
 I am a passionate Information Technology engineering student with a strong interest in full-stack web development and competitive programming. I enjoy solving complex problems, learning new technologies, and building innovative projects that add value. Currently, I am honing my skills in Data Structures & Algorithms, AWS Cloud, and Java backend development to build scalable and efficient applications.
 
 💡 What I'm Working On
@@ -10,7 +11,8 @@ Expanding my knowledge in backend development with Java and AWS cloud services.
 
 Enhancing my algorithms and data structures skills through daily practice and projects.
 
-🛠️ Skills & Technologies
+🛠️ **Skills & Technologies
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js, Express.js, Java
@@ -23,7 +25,7 @@ Programming: Proficient in Python and C++ for competitive programming and algori
 
 Others: Strong foundation in Data Structures & Algorithms (DSA)
 
-🤝 Let's Connect
+🤝 **Let's Connect
 I’m always open to collaborating on open-source projects, hackathons, or innovative software development ideas. Feel free to reach out to me at:
 
 📧 hariharankarunamoorthy20@gmail.com
